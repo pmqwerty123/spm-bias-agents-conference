@@ -1,0 +1,6 @@
+# Direct dependency versions in the release validation environment.
+# This is not a complete transitive dependency lock.
+numpy==2.5.2
+pydantic==2.13.4
+openai==3.3.1
+pytest==9.1.1
